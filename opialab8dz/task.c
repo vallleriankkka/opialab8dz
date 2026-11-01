@@ -3,8 +3,7 @@
 
 int main()
 {
-    setlocale(LC_CTYPE, "");
-
+    setlocale(LC_ALL, "Russian");
      task();
 }
 
